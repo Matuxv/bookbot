@@ -1,6 +1,3 @@
-def sort_on(dict):
-    return dict["num"]
-
 def main():
     with open("books/frankenstein.txt") as f:
         file_contents = f.read()
